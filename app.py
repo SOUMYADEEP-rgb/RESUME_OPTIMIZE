@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 import pdfplumber
 from utils import preprocess_text, compute_similarity, extract_keywords, find_missing_keywords
 
